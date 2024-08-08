@@ -7,6 +7,7 @@
 - [useOptimistic-Hook](https://jser.dev/2024-03-20-how-does-useoptimisticwork-internally-in-react/)
 - [useOptimistic in Next.js](https://aurorascharff.no/posts/utilizing-useoptimistic-across-the-component-tree-in-nextjs/)
 - [React 19 Compiler](https://www.developerway.com/posts/i-tried-react-compiler)
+- [React 19 Compiler Series)[https://yongseok.me/blog/en/react_compiler_1/]
 - [useFormStatus](https://aurorascharff.no/posts/creating-a-reusable-submitbutton-with-useformstatus)
     
 ### TypeScript Tips
@@ -18,6 +19,9 @@
 ### Meta Frameworks
 - [Redwood](https://redwoodjs.com/)
 - [R19 - React 19 Framework from Scratch](https://www.cmrg.me/blog/rsc-part-1-the-backstory)
+
+### Small Tutorials
+- [Login Page, Express Backend](https://clerk.com/blog/building-a-react-login-page-template)
   
 ## Common
 
@@ -38,6 +42,9 @@
 ### (Interactive) Guides
 - [Container Queries](https://ishadeed.com/article/css-container-query-guide/)
 
+### Web-Tools
+- [CSS Spring Easing Generator](https://www.kvin.me/css-springs)
+  
 ## TypeScript
 - [Different Mindset for TypeScript Types](https://www.rob.directory/blog/a-different-way-to-think-about-typescript)
   
@@ -49,4 +56,3 @@
 - [Sergio Xalambrí](https://sergiodxa.com/)
 - [Michael Carter](https://kiliman.dev/)
 - [Jacob Paris](https://www.jacobparis.com/)
-- 
