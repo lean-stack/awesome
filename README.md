@@ -7,7 +7,7 @@
 - [useOptimistic-Hook](https://jser.dev/2024-03-20-how-does-useoptimisticwork-internally-in-react/)
 - [useOptimistic in Next.js](https://aurorascharff.no/posts/utilizing-useoptimistic-across-the-component-tree-in-nextjs/)
 - [React 19 Compiler](https://www.developerway.com/posts/i-tried-react-compiler)
-- [React 19 Compiler Series)[https://yongseok.me/blog/en/react_compiler_1/]
+- [React 19 Compiler Series](https://yongseok.me/blog/en/react_compiler_1/)
 - [useFormStatus](https://aurorascharff.no/posts/creating-a-reusable-submitbutton-with-useformstatus)
     
 ### TypeScript Tips
