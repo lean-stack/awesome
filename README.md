@@ -47,6 +47,11 @@
   
 ## TypeScript
 - [Different Mindset for TypeScript Types](https://www.rob.directory/blog/a-different-way-to-think-about-typescript)
+
+## TailwindCSS
+
+### Tips
+- [Color Generator](https://uicolors.app/create)
   
 ## Frameworks
 
