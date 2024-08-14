@@ -1,3 +1,15 @@
+## HTML
+
+## CSS
+
+## JavaScript
+
+## TypeScript
+
+### Enums
+- [Matt Pocock Tweet](https://x.com/mattpocockuk/status/1823644476838961227)
+- [Matt Pocock Book](https://www.totaltypescript.com/books/total-typescript-essentials/typescript-only-features#enums)
+
 ## React
 
 ### Internals
