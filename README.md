@@ -1,9 +1,21 @@
+## Collaboration / Online IDEs
+- [Google IDX, Firebase Studio](https://idx.google.com/)
+
+## A11y
+- [A11y Essentials](https://martijnhols.nl/blog/accessibility-essentials-every-front-end-developer-should-know)
+  
 ## HTML
+- [HTML 2025: Accordion, Styleable Selects](https://frontendmasters.com/blog/bone-up-html-2025/)
 
 ## CSS
 
 ## JavaScript
+- [Quirks - Mozilla Spidermonkey](https://github.com/mozilla-spidermonkey/jsparagus/blob/master/js-quirks.md)
+- [Formatting dates and times](https://fullystacked.net/formatting-dates-and-times/)
 
+## Node.js
+- [Webserver with net-Module](https://notes.jordanscales.com/web-servers)
+  
 ## TypeScript
 
 ### Enums
@@ -12,7 +24,11 @@
 
 ## React
 
+### Tutorials
+- [React Visualized](https://react.gg/visualized)
+  
 ### Internals
+- [Dan Abramov - RSC or React For Two Computers](https://overreacted.io/react-for-two-computers/)
 - [Why React renders](https://ui.dev/why-react-renders)
 - [Deep dive into React Fibre](https://blog.logrocket.com/deep-dive-react-fiber/)
 - [React 19 Suspense Drama](https://tkdodo.eu/blog/react-19-and-suspense-a-drama-in-3-acts)
@@ -34,7 +50,17 @@
 - [Layout in React](https://www.ericburel.tech/blog/what-layout-means-in-react)
 - [Recat is becoming a Fullstack Framework](https://www.robinwieruch.de/react-full-stack-framework/)
 - [HOC - High Order Components](https://www.reactsquad.io/blog/higher-order-components-hocs-in-react)
+
+### UI Libraries
+- [BaseUI](https://base-ui.com/)
+- [9ui](https://www.9ui.dev/)
   
+### Libraries
+
+#### React Router
+- [Blog: ProgrammingAreHard](https://programmingarehard.com/)
+- [Error Reporting](https://programmingarehard.com/2025/03/11/react-router-error-reporting.html/)
+
 ### Meta Frameworks
 - [Redwood](https://redwoodjs.com/)
 - [R19 - React 19 Framework from Scratch](https://www.cmrg.me/blog/rsc-part-1-the-backstory)
@@ -43,7 +69,13 @@
 - [Login Page, Express Backend](https://clerk.com/blog/building-a-react-login-page-template)
 - [SVG Usage in JSX](https://fotis.xyz/posts/introducing-svg-use/)
 - [Modern data fetching](https://reacttraining.com/blog/modern-data-fetching-in-react)
-  
+- [Server Actions and Toasts](https://www.robinwieruch.de/react-server-actions-toast/)
+- [as-Prop with TypeScript](https://playfulprogramming.com/posts/react-as-prop)
+- [Understanding React Server Components](https://tonyalicea.dev/blog/understanding-react-server-components/)
+- [Progressive React Forms](https://rdrn.me/react-forms/)
+- [Create React Login Page - Sessions with Express](https://clerk.com/blog/building-a-react-login-page-template)
+- [Anti-Pattern: Pass setters to components](https://matanbobi.dev/posts/stop-passing-setter-functions-to-components)
+
 ### Styling
 - [CSS Auhtoring in React](https://www.alexchantastic.com/modern-css-authoring)
   
@@ -96,3 +128,6 @@
 - [Sergio Xalambrí](https://sergiodxa.com/)
 - [Michael Carter](https://kiliman.dev/)
 - [Jacob Paris](https://www.jacobparis.com/)
+
+## Git
+- [Configuring - done by Git core devs](https://blog.gitbutler.com/how-git-core-devs-configure-git/)
