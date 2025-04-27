@@ -15,6 +15,7 @@
 
 ## Node.js
 - [Webserver with net-Module](https://notes.jordanscales.com/web-servers)
+- [Node.js CLI Best Practices](https://github.com/lirantal/nodejs-cli-apps-best-practices)
   
 ## TypeScript
 
