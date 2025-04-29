@@ -40,7 +40,10 @@
 - [React 19 Compiler Series](https://yongseok.me/blog/en/react_compiler_1/)
 - [React 19 Developer Guide Series](https://www.callstack.com/blog/the-complete-developer-guide-to-react-19-part-1-async-handling)
 - [useFormStatus](https://aurorascharff.no/posts/creating-a-reusable-submitbutton-with-useformstatus)
-    
+
+### React Server Components
+- [Build your own RSC Framework](https://www.nikhilsnayak.dev/blog/build-your-own-rsc-framework-part-1)
+
 ### TypeScript Tips
 - [React 'as' Property](https://www.christianvm.dev/blog/react-as-prop)
 
