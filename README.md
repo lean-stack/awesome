@@ -1,3 +1,6 @@
+## Awesome Lists
+- [Self Hosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+
 ## Collaboration / Online IDEs
 - [Google IDX, Firebase Studio](https://idx.google.com/)
 
@@ -29,6 +32,7 @@
 - [React Visualized](https://react.gg/visualized)
   
 ### Internals
+- [Build your own React](https://pomb.us/build-your-own-react/)
 - [Dan Abramov - RSC or React For Two Computers](https://overreacted.io/react-for-two-computers/)
 - [Why React renders](https://ui.dev/why-react-renders)
 - [Deep dive into React Fibre](https://blog.logrocket.com/deep-dive-react-fiber/)
