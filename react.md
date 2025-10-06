@@ -1,5 +1,13 @@
 # React
 
+## Platform
+
+- [React and Web Workers](https://www.rahuljuliato.com/posts/react-workers)
+
+## State Management
+
+- [What to use in 2025](https://www.developerway.com/posts/react-state-management-2025)
+
 ## UI Libraries
 
 ### Headless
