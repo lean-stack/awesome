@@ -1,5 +1,9 @@
 # React
 
+## RSC (React Server Components)
+
+- https://marmelab.com/blog/2025/11/14/react-server-components-with-parcel.html
+
 ## Platform
 
 - [React and Web Workers](https://www.rahuljuliato.com/posts/react-workers)
