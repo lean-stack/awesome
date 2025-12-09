@@ -1,5 +1,11 @@
 # React
 
+## Core
+
+### Async
+- https://blog.logrocket.com/the-next-era-of-react/
+- https://blog.logrocket.com/react-19-2-the-async-shift/
+
 ## Sever Features
 
 ### Common
@@ -9,6 +15,7 @@
 - https://marmelab.com/blog/2025/11/14/react-server-components-with-parcel.html
 
 ## Hooks
+- https://allthingssmitty.com/2025/12/01/react-has-changed-your-hooks-should-too
 - https://www.charpeni.com/blog/dont-blindly-use-usetransition-everywhere
 - https://www.nico.fyi/blog/quick-look-use-effect-event
 - https://swizec.com/blog/you-may-be-looking-for-a-useSyncExternalStore
@@ -30,7 +37,6 @@
 ### Headless
 
 - [React Aria Components](https://react-spectrum.adobe.com/react-aria/index.html)
-
 
 ## React Router
 
