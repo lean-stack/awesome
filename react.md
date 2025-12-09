@@ -1,16 +1,20 @@
 # React
 
 ## Sever Features
+
+### Common
 - https://certificates.dev/blog/react-frameworks-and-server-side-features-beyond-client-side-rendering
-  
+
+### RSC (React Server Components)
+- https://marmelab.com/blog/2025/11/14/react-server-components-with-parcel.html
+
 ## Hooks
 - https://www.charpeni.com/blog/dont-blindly-use-usetransition-everywhere
 - https://www.nico.fyi/blog/quick-look-use-effect-event
 - https://swizec.com/blog/you-may-be-looking-for-a-useSyncExternalStore
 
-## RSC (React Server Components)
-
-- https://marmelab.com/blog/2025/11/14/react-server-components-with-parcel.html
+## React Builtin Components
+- https://www.premieroctet.com/blog/en/activity-new-react-component
 
 ## Platform
 
