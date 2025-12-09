@@ -18,4 +18,5 @@
 - https://htmhell.dev/adventcalendar/2025/1/ (incl. Adventskalender)
 
 ## CSS Functions
+- https://cassidoo.co/post/css-clamp/
 - https://github.com/sindresorhus/css-extras
