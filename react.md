@@ -6,6 +6,7 @@
 ## Hooks
 - https://www.charpeni.com/blog/dont-blindly-use-usetransition-everywhere
 - https://www.nico.fyi/blog/quick-look-use-effect-event
+- https://swizec.com/blog/you-may-be-looking-for-a-useSyncExternalStore
 
 ## RSC (React Server Components)
 
