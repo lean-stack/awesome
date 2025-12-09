@@ -16,3 +16,6 @@
   
 ### Popover / Dialogs
 - https://htmhell.dev/adventcalendar/2025/1/ (incl. Adventskalender)
+
+## CSS Functions
+- https://github.com/sindresorhus/css-extras
