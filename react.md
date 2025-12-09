@@ -1,5 +1,8 @@
 # React
 
+## Sever Features
+- https://certificates.dev/blog/react-frameworks-and-server-side-features-beyond-client-side-rendering
+  
 ## Hooks
 - https://www.charpeni.com/blog/dont-blindly-use-usetransition-everywhere
 - https://www.nico.fyi/blog/quick-look-use-effect-event
