@@ -15,6 +15,7 @@
 
 ## React Builtin Components
 - https://www.premieroctet.com/blog/en/activity-new-react-component
+- https://www.epicreact.dev/use-react-view-transition-to-smoothly-transition-images-and-titles-lu6ks
 
 ## Platform
 
