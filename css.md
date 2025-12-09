@@ -8,6 +8,9 @@
 
 ## Tricks
 
+### Layouting
+- https://ishadeed.com/article/modern-css-section-layout/
+  
 ### View Transitions
 - https://piccalil.li/blog/start-implementing-view-transitions-on-your-websites-today
   
