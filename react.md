@@ -1,5 +1,8 @@
 # React
 
+## Hooks
+- https://www.charpeni.com/blog/dont-blindly-use-usetransition-everywhere
+
 ## RSC (React Server Components)
 
 - https://marmelab.com/blog/2025/11/14/react-server-components-with-parcel.html
